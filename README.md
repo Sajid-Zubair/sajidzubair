@@ -22,10 +22,10 @@ I love turning ideas into impactful web applications using modern technologies. 
 ## 🌟 Featured Projects
 
 - **Mixmuse**  
-  <sub>*A platform that [describe Mixmuse in 1-2 lines, e.g., "redefines music sharing and discovery"* – add a link if available!*</sub>
+  <sub>*MixMuse is a web platform designed to connect amateur music artists with potential employers for part-time or full-time opportunities. It bridges the gap between emerging talent and industry demand by enabling artists to showcase their skills and helping recruiters discover fresh voices with ease.*</sub>
 
 - **TechFluent**  
-  <sub>*A project focused on [describe TechFluent in 1-2 lines, e.g., "empowering learners with tech resources"* – add a link if available!*</sub>
+  <sub>*TechFluent is an AI-powered web platform that helps students improve their technical and behavioral interview skills. Users can select core subjects or HR question types, respond via speech, and receive instant feedback based on accuracy, coherence, grammar, and vocabulary. The platform uses speech-to-text conversion (Whisper) and large language models (LLMs) for evaluation, providing ratings, insights, and college-wide leaderboards to track performance and progress.*</sub>
 
 ---
 
@@ -34,6 +34,7 @@ I love turning ideas into impactful web applications using modern technologies. 
 When I'm not coding, you'll find me:
 - 📖 Reading books
 - 🏏 Playing sports
+- 🍿 Binge watching shows
 
 ---
 
