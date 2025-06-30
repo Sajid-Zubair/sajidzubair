@@ -10,7 +10,7 @@
 I love turning ideas into impactful web applications using modern technologies. Whether it's front-end magic or robust back-end systems, I'm always up for a challenge!
 
 **Tech Stack:**
-- ⚛️ React
+- ⚛️ React and Next.JS
 - 🟨 JavaScript (JS)
 - 💨 Tailwind CSS
 - 🐍 Django & Flask
