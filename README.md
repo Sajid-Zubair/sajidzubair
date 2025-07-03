@@ -29,7 +29,7 @@ I love turning ideas into impactful web applications using modern technologies. 
 
 
 - **PitchDeck**
-<sub>*PitchDeck is a full-stack platform that enables startup founders to submit and showcase their business pitches. It features Markdown support for rich formatting, GitHub OAuth for secure authentication, and a dynamic content management system using Sanity.io and GROQ. Each pitch is displayed on its own dedicated page for easy sharing and discovery.*</sub>
+  <sub>*PitchDeck is a full-stack platform that enables startup founders to submit and showcase their business pitches. It features Markdown support for rich formatting, GitHub OAuth for secure authentication, and a dynamic content management system using Sanity.io and GROQ. Each pitch is displayed on its own dedicated page for easy sharing and discovery.*</sub>
 
 - **VoiceVerse**
   <sub>*VoiceVerse is a modern SaaS platform that empowers users to create fully customizable AI-powered learning companions tailored to their personal learning goals. Whether you're studying mathematics, literature, or computer science, VoiceVerse allows you to build and interact with AI tutors that match your preferred tone, topic, and style. Users can explore community-created companions, track session history, and choose from various subscription plans to enhance their learning experience.*</sub>
